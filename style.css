@@ -1,0 +1,35 @@
+
+body {
+    font-family: "Times New Roman", serif;
+    margin: 0;
+    padding: 0;
+}
+
+.pin {
+    width: 275px;
+    height: 300px;
+    border-radius: 15px;
+    border: 3px solid green;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    position: absolute;
+}
+
+.pin h2 {
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 28px;
+    margin-top: 35px;
+    margin-bottom: 0;
+    padding: 2px;
+}
+
+.pin ul {
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: 35px 0 0 0;
+    padding: 5px 5px 5px 30px;
+    font-size: 18px;
+}
